@@ -343,7 +343,7 @@ if __name__ == "__main__":
         timeout_val = 15
 
     output_file = os.getenv("SPORTZX_OUTPUT", "Sportzx.m3u8")
-    logo_url = os.getenv("SPORTZX_LOGO", "https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png")
+    logo_url = os.getenv("SPORTZX_LOGO", "https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png")
 
     client = SportzxClient(
         excluded_categories=excluded_categories,
