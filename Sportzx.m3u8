@@ -188,19 +188,11 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="ipl011500starsportshin" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Indian premier league",IPL - 01 15:00 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
-#EXTINF:-1 tvg-id="clevelandcavaliers0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Cleveland Cavaliers 01:00 (HD SERVER)
-https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="cruzazulvspumasunam0300hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Cruz Azul vs Pumas UNAM 03:00 (HD SERVER)
+https://futbol9865.ultratv13.workers.dev/deportivo111/68.m3u8
 
-#EXTINF:-1 tvg-id="carolinahurricanes0100premiersports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Carolina Hurricanes 01:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="carolinahurricanes0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Carolina Hurricanes 01:00 (HD SERVER)
-https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="newyorkmets2105mlblivehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Mlb",New York Mets 21:05 (MLB LIVE HD)
-https://streamxyz.shop/mets/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="cruzazulvspumasunam0300sdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Cruz Azul vs Pumas UNAM 03:00 (SD SERVER)
+http://193.47.62.41/hls/OHHHF.m3u8
 
 #EXTINF:-1 tvg-id="alfayhavsalhilal1900setantasports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Pro league 🇸🇦",Al-Fayha vs Al-Hilal 19:00 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
