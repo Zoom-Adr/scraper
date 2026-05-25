@@ -90,26 +90,6 @@ https://cdn1.dtplumber.cfd/live/cdn1/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-
-#EXTINF:-1 tvg-id="onefridayfights1330espnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (ESPN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
-https://dice-live-oc.akamaized.net/hdntl=exp=1779529113~acl=%2f*~id=f8a0f7f6-5eb8-49c9-a19f-2655d8d88a1a~data=hdntl,aXA9NTcuMTUxLjE0My4xNzgmZXhwPTE3Nzk0NDI3NDMmZWlkPTk2MDc3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1ubzZVczZ8ZTRlYzA3YmMtZGNhOC00MmIwLWFiNzQtNjI2YTIwOTBkYTQyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=569a3a475b804e495e8abbeef2fc2c9e6b659df245657a3d63e14366c2b7b0f0/dash/live/2093723/219038-321034/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="onefridayfights1330server2" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (Server 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
-https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-
-#EXTINF:-1 tvg-id="onefridayfights1330server3" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Boxing",ONE Friday Fights 13:30 (Server 3)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd
-
 #EXTINF:-1 tvg-id="wweraw0100sportzxhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",WWE Raw 01:00 (SportzX HD)
 https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
@@ -204,59 +184,3 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0100espnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Oklahoma City Thunder 01:00 (ESPN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0100nbalivefhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Oklahoma City Thunder 01:00 (NBA LIVE FHD)
-https://bo5.bofiles.cfd/live/spurs/stream.m3u8
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0100nbalivealt" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Oklahoma City Thunder 01:00 (NBA LIVE ALT)
-https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/5dff4ffa-85e1-4d99-9df5-1707f91f1922/master.m3u8
-
-#EXTINF:-1 tvg-id="oklahomacitythunder0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nba",Oklahoma City Thunder 01:00 (HD SERVER)
-https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100setantasports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Colorado Avalanche 01:00 (SETANTA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584
-https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100premiersports" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Colorado Avalanche 01:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100espnsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Colorado Avalanche 01:00 (ESPN SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9
-https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="coloradoavalanche0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Nhl",Colorado Avalanche 01:00 (HD SERVER)
-https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="aewdoubleornothing0100aewliveaq" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",AEW Double or Nothing 01:00 (AEW Live - AQ)
-https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f44cb62f-9d91-4763-bec9-ad756e0b8d70/master.m3u8
-
-#EXTINF:-1 tvg-id="aewdoubleornothing0100hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",AEW Double or Nothing 01:00 (HD SERVER)
-https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
-
-#EXTINF:-1 tvg-id="aewdoubleornothing0100lqserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",AEW Double or Nothing 01:00 (LQ SERVER)
-https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
-
-#EXTINF:-1 tvg-id="aewdoubleornothing0100sdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Wwe",AEW Double or Nothing 01:00 (SD SERVER)
-https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnsportshd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Pumas UNAM vs Cruz Azul 02:00 (TUDN SPORTS HD)
-https://daffodil.sandhost.qzz.io/tudn.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200sdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Pumas UNAM vs Cruz Azul 02:00 (SD SERVER)
-http://193.47.62.43/hls/KMMMZZZQQQ.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200hdserver" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Pumas UNAM vs Cruz Azul 02:00 (HD SERVER)
-https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnusahd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Liga mx",Pumas UNAM vs Cruz Azul 02:00 (TUDN USA HD)
-https://daffodil.thelistener.pk/tudn.m3u8
