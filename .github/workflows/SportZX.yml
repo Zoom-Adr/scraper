@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"  # Every 30 minutes (UTC = also every 30 min SGT)
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 permissions:
   contents: write
 
@@ -19,7 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.13'
 
       - name: Install dependencies
         run: |
