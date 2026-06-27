@@ -572,10 +572,10 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iayg0kyrof/out/v1
 https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="panamavsengland2200foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (FOX ONE HD)
-https://nhjjhhjhjjhfjj.pages.dev/1782601830/0d1ba7d2a931430a9811b5431f45cfc5/PPfcMBa776gvmwhFFJjlWZRmM1-ZOPfOKR-mqCUnSqs/fox-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782609505/c2ed46f8fd90464697f57c935fc3c709/wIziCn5_Xt-90uhsB6ckBN7PyQ10NGAtrtA6so7WC48/fox-usa.m3u8
 
 #EXTINF:-1 tvg-id="panamavsengland2200beinmaxfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (beIN MAX FHD)
-https://nhjjhhjhjjhfjj.pages.dev/1782601877/756dff3bf63242728900fab86ae5869e/CKNBZ7vok8P-_PEHmlLVipFRTbmgvi5xv8gU0s2IS38/beinsportsmax-sa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782609557/16f7b12d700749a58a0da0cb252465c0/IW0Yl0ePTEGksYctwOq3j8UpVC4Alwxa5Z_K7YzCCcs/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="panamavsengland2200tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (TSN Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -613,10 +613,10 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-id="panamavsengland2200fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (FOX 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782601902/cbff9de94908431dbfabaf8b5fd918f1/-LWNr-pBIqQc9vTvCwn5B8wm-vO81nDw_ykIjuypWkM/fox4k-usa.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782609531/6295308293c5456aa1fbfe7e9d58a630/KTKl24ec6ION37WhESRPgDeK05in79m9XUA44YQrZag/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="panamavsengland2200fussball4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (FUSSBALL 4K LIVE)
-https://nhjjhhjhjjhfjj.pages.dev/1782601955/18e0b7d861384a4ba4baaf444bbd61c5/bpgtebVHIDYI1gbSarYPxKf8_9tCMoc1jtPiHUbELMI/fusballtv1uhd-de.m3u8
+https://nhjjhhjhjjhfjj.pages.dev/1782609547/e2793adf48d84820a0594b3e365a17b1/SVAopR2x7jYNW34QGjR6HLrbzEhnpX19r9nsNV7duqE/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="panamavsengland2200fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Panama vs England 22:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -672,6 +672,11 @@ https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/3eckcsaoqz/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd
+
+#EXTINF:-1 tvg-id="croatiavsghana2200foxsports4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (FOX SPORTS 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ucyzt0tvgp/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd
 
 #EXTINF:-1 tvg-id="croatiavsghana2200itvsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Croatia vs Ghana 22:00 (ITV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -833,17 +838,17 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1
 #EXTINF:-1 tvg-id="colombiavsportugal0030canal5fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (CANAL5 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+https://otte-azion.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
 
 #EXTINF:-1 tvg-id="colombiavsportugal0030tvela1fhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (TVE La 1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
 
 #EXTINF:-1 tvg-id="colombiavsportugal0030dsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
 #EXTINF:-1 tvg-id="colombiavsportugal0030cazetvfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -854,6 +859,12 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="colombiavsportugal0030foxonehd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (FOX ONE HD)
+https://nhjjhhjhjjhfjj.pages.dev/1782609505/c2ed46f8fd90464697f57c935fc3c709/wIziCn5_Xt-90uhsB6ckBN7PyQ10NGAtrtA6so7WC48/fox-usa.m3u8
+
+#EXTINF:-1 tvg-id="colombiavsportugal0030beinmaxfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (beIN MAX FHD)
+https://nhjjhhjhjjhfjj.pages.dev/1782609557/16f7b12d700749a58a0da0cb252465c0/IW0Yl0ePTEGksYctwOq3j8UpVC4Alwxa5Z_K7YzCCcs/beinsportsmax-sa.m3u8
 
 #EXTINF:-1 tvg-id="colombiavsportugal0030tsnsportsfhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -879,6 +890,12 @@ https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="colombiavsportugal0030fox4klive" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (FOX 4K LIVE)
+https://nhjjhhjhjjhfjj.pages.dev/1782609531/6295308293c5456aa1fbfe7e9d58a630/KTKl24ec6ION37WhESRPgDeK05in79m9XUA44YQrZag/fox4k-usa.m3u8
+
+#EXTINF:-1 tvg-id="colombiavsportugal0030fussballtvuhd" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (FUSSBALL TV UHD)
+https://nhjjhhjhjjhfjj.pages.dev/1782609547/e2793adf48d84820a0594b3e365a17b1/SVAopR2x7jYNW34QGjR6HLrbzEhnpX19r9nsNV7duqE/fusballtv1uhd-de.m3u8
 
 #EXTINF:-1 tvg-id="colombiavsportugal0030fussballtv4k" tvg-logo="https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png" group-title="Fifa world cup",Colombia vs Portugal 00:30 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
