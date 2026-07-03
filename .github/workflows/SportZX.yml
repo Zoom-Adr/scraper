@@ -3,7 +3,7 @@ name: AA-Sportzx
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"  # Every 30 minutes (UTC = also every 30 min SGT)
+    - cron: "*/10 * * * *"  # Every 30 minutes (UTC = also every 30 min SGT)
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
