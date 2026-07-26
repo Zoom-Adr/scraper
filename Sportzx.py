@@ -145,7 +145,7 @@ class SportzxClient:
         }
 
         config_body = {
-            "appVersion": "2.5",
+            "appVersion": "2.6",
             "firstOpenTime": "2025-11-10T16:00:00.000Z",
             "timeZone": "Europe/Rome",
             "appInstanceIdToken": auth_token,
