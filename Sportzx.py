@@ -252,7 +252,7 @@ class SportzxClient:
 
     def generate_m3u(self,
                      channels: List[SportzxChannel],
-                     filename: str = "Sportzx1.m3u8",
+                     filename: str = "Sportzx.m3u8",
                      generic_logo: str = "https://via.placeholder.com/512/000000/FFFFFF?text=Sport") -> str:
         lines = ["#EXTM3U", "#EXT-X-VERSION:3", ""]
 
@@ -342,7 +342,7 @@ if __name__ == "__main__":
     except Exception:
         timeout_val = 15
 
-    output_file = os.getenv("SPORTZX_OUTPUT", "Sportzx1.m3u8")
+    output_file = os.getenv("SPORTZX_OUTPUT", "Sportzx.m3u8")
     logo_url = os.getenv("SPORTZX_LOGO", "https://i.postimg.cc/d3Bxy9ss/sportzx-football-live-tv-hd-logo-removebg-preview.png")
 
     client = SportzxClient(
