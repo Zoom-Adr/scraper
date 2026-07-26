@@ -38,6 +38,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
 
-          git add Sportzx.m3u8
+          git add Sportzx1.m3u8
           git diff --cached --quiet || git commit -m "Aggiornato file M3U8 con nuovi flussi"
           git push
